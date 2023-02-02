@@ -1,0 +1,6 @@
+*.xlsx
+*.xls
+*.csv
+*.geojson
+.ipynb_checkpoints/
+contours/

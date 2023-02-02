@@ -1,0 +1,9 @@
+jupyterlab
+jupyter_nbextensions_configurator
+pandas
+geopandas
+folium
+requests
+matplotlib
+mapclassify
+openpyxl
